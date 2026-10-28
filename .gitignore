@@ -1,0 +1,6 @@
+**/.pio/
+**/.vscode/
+**/.wokwi/
+**/node_modules/
+**/__pycache__/
+*.log
